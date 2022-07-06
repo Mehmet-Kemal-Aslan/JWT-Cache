@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SLTOnRo6lERnpReb7DFEAs00ykcFQZYxNjzz80fymDY=",
+  "Source": "JWT-Caching",
+  "BasePath": "_content/JWT-Caching",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
